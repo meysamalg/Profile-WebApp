@@ -38,14 +38,14 @@ export default function Projects() {
 
       <div className="text-center leading-relaxed">
         <p>
-          About me: Hello ✋ I’m Elias, also known as Amin, a self-taught
-          full-stack web developer with a passion for cutting-edge technology.
-          I’ve been working in web development since 2018, specializing in React
-          and Next.js for the front end, and .NET Core for the back end. My
-          current focus is on Web3, particularly in the area of Decentralized
-          Finance (DeFi), as I’m fascinated by how it’s transforming financial
-          systems. I’m always eager to learn and explore new technologies to
-          stay ahead in the field. Contact me: 📱 +98 937 696 8052 📧
+          About me: Hello ✋ I’m meysam alamgir, a self-taught full-stack web
+          developer with a passion for cutting-edge technology. I’ve been
+          working in web development since 2018, specializing in React and
+          Next.js for the front end, and .NET Core for the back end. My current
+          focus is on Web3, particularly in the area of Decentralized Finance
+          (DeFi), as I’m fascinated by how it’s transforming financial systems.
+          I’m always eager to learn and explore new technologies to stay ahead
+          in the field. Contact me: 📱 +98 939 898 0854 📧
           elias.nazemi98@gmail.com How to reach me:
         </p>
       </div>
